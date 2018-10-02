@@ -1,0 +1,7 @@
+Rolle zu SQL angelegt -> OK
+SQL Edit-Formular ändern
+- Rollen auslesen
+- Rollen mit update speichern
+SQL Create-Formular ändern
+- Rollen auslesen
+- Rollen mit update speichern
